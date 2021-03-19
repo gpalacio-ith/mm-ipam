@@ -1,0 +1,25 @@
+Range,Title,Description,isContainer,isSubnet,Action
+10.230.0.0/16,<SITE> Datacenter,<SITE> - <LOCATION>,yes,no,<ACTION>
+10.230.0.0/17,<SITE>/Commercial,<SITE>/Commercial,yes,no,<ACTION>
+10.230.0.0/24,<SITE>/Commercial,VLAN 10 - Transit,no,yes,<ACTION>
+10.230.1.0/24,<SITE>/Commercial,VLAN 11 - Management,no,yes,<ACTION>
+10.230.2.0/24,<SITE>/Commercial,VLAN 12 - vMotion,no,yes,<ACTION>
+10.230.3.0/24,<SITE>/Commercial,VLAN 13 - vSAN,no,yes,<ACTION>
+10.230.4.0/24,<SITE>/Commercial,VLAN 14 - Servers (defunct),no,yes,<ACTION>
+10.230.5.0/24,<SITE>/Commercial,VLAN 15 - CDN,no,yes,<ACTION>
+10.230.6.0/24,<SITE>/Commercial,VLAN 16 - DMZ (SIP) - Production,no,yes,<ACTION>
+10.230.7.0/24,<SITE>/Commercial,VLAN 17 - DMZ (SIP) - Stage,no,yes,<ACTION>
+10.230.32.0/23,<SITE>/Commercial,VLAN 18 - Production,no,yes,<ACTION>
+10.230.34.0/23,<SITE>/Commercial,VLAN 19 - Stage,no,yes,<ACTION>
+10.230.36.0/23,<SITE>/Commercial,VLAN 20 - Dev/QA,no,yes,<ACTION>
+10.230.128.0/17,<SITE>/FedGov,<SITE>/FedGov,yes,no,<ACTION>
+10.230.128.0/24,<SITE>/FedGov,VLAN 10 - Transit,no,yes,<ACTION>
+10.230.129.0/24,<SITE>/FedGov,VLAN 11 - Management,no,yes,<ACTION>
+10.230.130.0/24,<SITE>/FedGov,VLAN 12 - vMotion,no,yes,<ACTION>
+10.230.131.0/24,<SITE>/FedGov,VLAN 13 - vSAN,no,yes,<ACTION>
+10.230.133.0/24,<SITE>/FedGov,VLAN 15 - CDN,no,yes,<ACTION>
+10.230.134.0/24,<SITE>/FedGov,VLAN 16 - DMZ (SIP) - Production,no,yes,<ACTION>
+10.230.135.0/24,<SITE>/FedGov,VLAN 17 - DMZ (SIP) - Stage,no,yes,<ACTION>
+10.230.136.0/23,<SITE>/FedGov,VLAN 18 - Production,no,yes,<ACTION>
+10.230.138.0/23,<SITE>/FedGov,VLAN 19 - Stage,no,yes,<ACTION>
+10.230.140.0/23,<SITE>/FedGov,VLAN 20 - Dev/QA,no,yes,<ACTION>
