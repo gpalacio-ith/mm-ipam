@@ -8,6 +8,7 @@ CSV files that defines the skeleton for various parts of our IPAM set up. More i
 The CSV file describes the hierarchy for IP addressing for a typical data center location.
 
 #### How to use it
+- Replace ```X``` with the correct octet number (i.e. 230, 232, etc)
 - Replace ```SITE``` with three letter a abbreviation of the location (LVS, POR, etc)
 - Replace ```LOCATION``` with the ```SITE``` followed by facility and city/state (e.i. IAD - Equinix Ashburn VA)
 - Replace ```ACTION``` with the correct action: ```create``` for new resources, ```update``` for existings one
