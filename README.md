@@ -2,7 +2,7 @@
 
 CSV files that defines the skeleton for various parts of our IPAM set up. More information on how to import https://docs.menandmice.com/display/MM920/Import+IPAM+data
 
-### data-centers.txt
+### data-center-site.txt
 The CSV file describes the hierarchy for IP addressing for a typical data center 
 
 #### How to use it
