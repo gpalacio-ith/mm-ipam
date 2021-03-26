@@ -1,0 +1,11 @@
+Device,Interface,Addresses
+fngfw-01-sng,border,170.176.128.241
+fngfw-01-sng,core-transit,10.229.0.11
+fngfw-01-sng,DC/US/1_1,10.254.255.57
+fngfw-01-sng,DC/US/1_2,10.254.255.59
+fngfw-01-sng,DC/US/1_3,10.254.255.55
+fngfw-01-sng,DC/US/1_4,10.254.255.61
+fngfw-01-sng,DC/US/1_5,10.254.255.63
+fngfw-01-sng,DC/US/1_c,10.254.255.65
+fngfw-01-sng,DC/US/1_15,10.254.255.79
+fngfw-01-sng,VDI/SNG_18,169.254.174.210

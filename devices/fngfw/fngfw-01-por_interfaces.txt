@@ -1,0 +1,16 @@
+Device,Interface,Addresses
+fngfw-01-por,border,170.176.148.241
+fngfw-01-por,core-transit,10.224.0.11
+fngfw-01-por,DC/US/1_1,10.254.255.5
+fngfw-01-por,DC/US/1_2,10.254.255.9
+fngfw-01-por,DC/US/1_3,10.254.255.11
+fngfw-01-por,Loopback1,10.255.224.1
+fngfw-01-por,DC/US/1_5,10.254.255.13
+fngfw-01-por,VDI/POR_a,169.254.47.242
+fngfw-01-por,VDI/POR_b,169.254.224.166
+fngfw-01-por,DC/US/1_c,10.254.255.28
+fngfw-01-por,VLAN128,10.224.128.11
+fngfw-01-por,FedGov-border,170.176.148.243
+fngfw-01-por,DC/US/1_13,10.254.255.50
+fngfw-01-por,DC/US/1_14,10.254.255.60
+fngfw-01-por,DC/US/1_15,10.254.255.73

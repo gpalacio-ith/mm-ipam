@@ -1,0 +1,11 @@
+Device,Interface,Addresses
+fngfw-01-fra,border,170.176.136.241
+fngfw-01-fra,core-transit,10.233.0.11
+fngfw-01-fra,DC/US/1_1,10.254.255.23
+fngfw-01-fra,DC/US/1_2,10.254.255.25
+fngfw-01-fra,DC/US/1_3,10.254.255.27
+fngfw-01-fra,DC/US/1_4,10.254.255.29
+fngfw-01-fra,DC/US/1_5,10.254.255.21
+fngfw-01-fra,DC/US/1_13,10.254.255.52
+fngfw-01-fra,DC/US/1_14,10.254.255.64
+fngfw-01-fra,DC/US/1_15,10.254.255.77

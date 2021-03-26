@@ -1,0 +1,17 @@
+Device,Interface,Addresses
+fngfw-01-iad,border,170.176.144.241
+fngfw-01-iad,core-transit,10.230.0.11
+fngfw-01-iad,DC/US/1_2,10.254.255.0
+fngfw-01-iad,DC/US/1_3,10.254.255.2
+fngfw-01-iad,DC/US/1_4,10.254.255.4
+fngfw-01-iad,Loopback1,10.255.230.1
+fngfw-01-iad,DC/US/1_5,10.254.255.14
+fngfw-01-iad,DC/US/1_c,10.254.255.22
+fngfw-01-iad,VLAN128,10.230.128.11
+fngfw-01-iad,FedGov-border,170.176.144.243
+fngfw-01-iad,AWS/Fed_d,10.254.255.35
+fngfw-01-iad,AWS/Fed_e,10.254.255.33
+fngfw-01-iad,AWS/Fed_10,10.254.255.41
+fngfw-01-iad,DC/US/1_13,10.254.255.44
+fngfw-01-iad,DC/US/1_14,10.254.255.56
+fngfw-01-iad,DC/US/1_15,10.254.255.67

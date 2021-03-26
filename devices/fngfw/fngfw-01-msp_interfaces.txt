@@ -1,0 +1,14 @@
+Device,Interface,Addresses
+fngfw-01-msp,border,170.176.146.241
+fngfw-01-msp,core-transit,10.226.0.11
+fngfw-01-msp,DC/US/1_1,10.254.255.3
+fngfw-01-msp,DC/US/1_2,10.254.255.7
+fngfw-01-msp,DC/US/1_4,10.254.255.10
+fngfw-01-msp,Loopback1,10.255.226.1
+fngfw-01-msp,DC/US/1_5,10.254.255.16
+fngfw-01-msp,DC/US/1_c,10.254.255.26
+fngfw-01-msp,VLAN128,10.226.128.11
+fngfw-01-msp,FedGov-border,170.176.146.243
+fngfw-01-msp,DC/US/1_13,10.254.255.48
+fngfw-01-msp,DC/US/1_14,10.254.255.54
+fngfw-01-msp,DC/US/1_15,10.254.255.69

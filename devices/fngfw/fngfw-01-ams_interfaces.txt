@@ -1,0 +1,15 @@
+Device,Interface,Addresses
+fngfw-01-ams,border,170.176.137.241
+fngfw-01-ams,core-transit,10.227.0.11
+fngfw-01-ams,DC/US/1_1,10.254.255.15
+fngfw-01-ams,DC/US/1_2,10.254.255.19
+fngfw-01-ams,DC/US/1_3,10.254.255.17
+fngfw-01-ams,DC/US/1_4,10.254.255.12
+fngfw-01-ams,VDI/AMS_7,169.254.248.22
+fngfw-01-ams,VDI/AMS_8,169.254.47.126
+fngfw-01-ams,DC/US/1_c,10.254.255.20
+fngfw-01-ams,17228/AMS_11,169.254.24.170
+fngfw-01-ams,17228/AMS_12,169.254.14.214
+fngfw-01-ams,DC/US/1_13,10.254.255.42
+fngfw-01-ams,DC/US/1_14,10.254.255.62
+fngfw-01-ams,DC/US/1_15,10.254.255.75
