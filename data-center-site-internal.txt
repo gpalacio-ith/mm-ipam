@@ -1,0 +1,57 @@
+Range,Title,Description,isContainer,isSubnet,Action
+10.<OCTET>.0.0/16,<SITE> Datacenter,<SITE> - <LOCATION>,yes,no,<ACTION>
+10.<OCTET>.0.0/19,<SITE>/Commercial,<SITE>/Commercial,yes,no,<ACTION>
+10.<OCTET>.0.0/24,<SITE>/Commercial,VLAN 10 - Transit,no,yes,<ACTION>
+10.<OCTET>.1.0/24,<SITE>/Commercial,VLAN 11 - Management,no,yes,<ACTION>
+10.<OCTET>.2.0/24,<SITE>/Commercial,VLAN 12 - vMotion,no,yes,<ACTION>
+10.<OCTET>.3.0/24,<SITE>/Commercial,VLAN 13 - vSAN,no,yes,<ACTION>
+10.<OCTET>.4.0/24,<SITE>/Commercial,VLAN 14 - Servers (deprecated),no,yes,<ACTION>
+10.<OCTET>.6.0/24,<SITE>/Commercial,VLAN 16 - DMZ/SIP  - Prod,no,yes,<ACTION>
+10.<OCTET>.7.0/24,<SITE>/Commercial,VLAN 17 - DMZ/SIP - Stage,no,yes,<ACTION>
+10.<OCTET>.20.0/23,<SITE>/Commercial,LAN 20 - Production,no,yes,<ACTION>
+10.<OCTET>.22.0/23,<SITE>/Commercial,VLAN 22 - Stage,no,yes,<ACTION>
+10.<OCTET>.24.0/23,<SITE>/Commercial,VLAN 24 - Dev/QA,no,yes,<ACTION>
+10.<OCTET>.32.0/19,<SITE>/Available,<SITE>/Available,yes,no,<ACTION>
+10.<OCTET>.32.0/24,<SITE>/Available,VLAN 32 - Transit,no,yes,<ACTION>
+10.<OCTET>.33.0/24,<SITE>/Available,VLAN 33 - Management,no,yes,<ACTION>
+10.<OCTET>.34.0/24,<SITE>/Available,VLAN 34 - vMotion,no,yes,<ACTION>
+10.<OCTET>.35.0/24,<SITE>/Available,VLAN 35 - vSAN,no,yes,<ACTION>
+10.<OCTET>.36.0/24,<SITE>/Available,VLAN 36 - Servers (deprecated), no,yes,<ACTION>
+10.<OCTET>.37.0/24,<SITE>/Available,VLAN 37 - DMZ/SIP - Prod, no,yes,<ACTION>
+10.<OCTET>.38.0/24,<SITE>/Available,VLAN 38 - DMZ/SI - Stage, no,yes,<ACTION>
+10.<OCTET>.40.0/23,<SITE>/Available,VLAN 40 - Production,no,yes,<ACTION>
+10.<OCTET>.42.0/23,<SITE>/Available,VLAN 42 - Stage,no,yes,<ACTION>
+10.<OCTET>.44.0/23,<SITE>/Available,VLAN 44 - Dev/QA,no,yes,<ACTION>
+10.<OCTET>.64.0/19,<SITE>/CAT,<SITE>/CAT,yes,no,<ACTION>
+10.<OCTET>.64.0/24,<SITE>/CAT,VLAN 64 - Transit,no,yes,<ACTION>
+10.<OCTET>.65.0/24,<SITE>/CAT,VLAN 65 - Management,no,yes,<ACTION>
+10.<OCTET>.66.0/24,<SITE>/CAT,VLAN 66 - vMotion,no,yes,<ACTION>
+10.<OCTET>.67.0/24,<SITE>/CAT,VLAN 67 - vSAN,no,yes,<ACTION>
+10.<OCTET>.68.0/24,<SITE>/CAT,VLAN 68 - Servers (deprecated),no,yes,<ACTION>
+10.<OCTET>.69.0/24,<SITE>/CAT,VLAN 69 - DMZ/SIP  - Prod,no,yes,<ACTION>
+10.<OCTET>.70.0/24,<SITE>/CAT,VLAN 70 - DMZ/SIP - Stage,no,yes,<ACTION>
+10.<OCTET>.72.0/23,<SITE>/CAT,VLAN 72 - Production,no,yes,<ACTION>
+10.<OCTET>.74.0/23,<SITE>/CAT,VLAN 74 - Stage,no,yes,<ACTION>
+10.<OCTET>.76.0/23,<SITE>/CAT,VLAN 76 - Dev/QA,no,yes,<ACTION>
+10.<OCTET>.96.0/19,<SITE>/Available,<SITE>/Available,yes,no,<ACTION>
+10.<OCTET>.96.0/24,<SITE>/Available,VLAN 96 - Transit,no,yes,<ACTION>
+10.<OCTET>.97.0/24,<SITE>/Available,VLAN 97 - Management,no,yes,<ACTION>
+10.<OCTET>.98.0/24,<SITE>/Available,VLAN 98 - vMotion,no,yes,<ACTION>
+10.<OCTET>.99.0/24,<SITE>/Available,VLAN 99 - vSAN,no,yes,<ACTION>
+10.<OCTET>.100.0/24,<SITE>/Available,VLAN 100 - Servers (deprecated),no,yes,<ACTION>
+10.<OCTET>.101.0/24,<SITE>/Available,VLAN 101 - DMZ/SIP  - Prod,no,yes,<ACTION>
+10.<OCTET>.102.0/24,<SITE>/Available,VLAN 102 - DMZ/SIP - Stage,no,yes,<ACTION>
+10.<OCTET>.104.0/23,<SITE>/Available,VLAN 104 - Production,no,yes,<ACTION>
+10.<OCTET>.106.0/23,<SITE>/Available,VLAN 106 - Stage,no,yes,<ACTION>
+10.<OCTET>.108.0/23,<SITE>/Available,VLAN 108 - Dev/QA,no,yes,<ACTION>
+10.<OCTET>.128.0/19,<SITE>/FedGov,<SITE>/FedGov,yes,no,<ACTION>
+10.<OCTET>.128.0/24,<SITE>/FedGov,VLAN 128 - Transit,no,yes,<ACTION>
+10.<OCTET>.129.0/24,<SITE>/FedGov,VLAN 129 - Management,no,yes,<ACTION>
+10.<OCTET>.130.0/24,<SITE>/FedGov,VLAN 130 - vMotion,no,yes,<ACTION>
+10.<OCTET>.131.0/24,<SITE>/FedGov,VLAN 131 - vSAN,no,yes,<ACTION>
+10.<OCTET>.132.0/24,<SITE>/FedGov,VLAN 132 - Servers (deprecated),no,yes,<ACTION>
+10.<OCTET>.133.0/24,<SITE>/FedGov,VLAN 133 - DMZ/SIP  - Prod,no,yes,<ACTION>
+10.<OCTET>.134.0/24,<SITE>/FedGov,VLAN 134 - DMZ/SIP - Stage,no,yes,<ACTION>
+10.<OCTET>.136.0/23,<SITE>/FedGov,VLAN 136 - Production,no,yes,<ACTION>
+10.<OCTET>.138.0/23,<SITE>/FedGov,VLAN 138 - Stage,no,yes,<ACTION>
+10.<OCTET>.140.0/23,<SITE>/FedGov,VLAN 140 - Dev/QA,no,yes,<ACTION>
